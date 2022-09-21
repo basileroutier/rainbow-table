@@ -1,0 +1,16 @@
+#Rainbow Table
+The rainbow table is a Java Project. Which create an generated table to crack (random), a File that contain a head and a tail to be able to attack the tryToCrackMe file and an attack to crack the password with multi-threading
+Don't worry if you'r computer is make some noise ;) .
+
+#How to use it
+ * To run the projet go to :
+	* target and open cmd or terminal and enter the following command :
+		* java -cp RainbowTable-1.0-jar-with-dependencies.jar g54018.rainbowtable.Main
+		* The project will ask you different option
+		* Please be careful to provide a good answer, the project is key sensitive so if you write any bad command it will show you an error without asking you the request
+#Version
+ * This is the first version made by us for the SECL 4
+ * The version is made with Java cause it was hard to make it in c++ and was slower (we doe not know how)
+
+#Group
+The group with  g54018, g52828 and g54895
